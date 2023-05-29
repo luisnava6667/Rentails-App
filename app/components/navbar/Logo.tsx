@@ -9,7 +9,7 @@ export const Logo = () => {
       <Link href='/'>
         <div className='text-rose-500 flex items-center justify-center'>
           <BiBuildingHouse size={40} className='' />
-          <div className='font-bold text-2xl'>Rentals Finder</div>
+          <div className='font-bold text-2xl hidden lg:block'>Rentals Finder</div>
         </div>
       </Link>
     </>
